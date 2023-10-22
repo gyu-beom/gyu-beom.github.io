@@ -20,7 +20,7 @@ comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   utterances:
     theme                : "github-light" # "github-light", "github-dark"
-    issue_term           : "comments"
+    issue_term           : "pathname"
 reCaptcha:
   siteKey                :
   secret                 :
