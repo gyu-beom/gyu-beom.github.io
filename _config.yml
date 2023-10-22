@@ -10,7 +10,7 @@ name                     : "gyu-beom" # 화면 하단 영역의 이름
 description              : "장규범" # 설명란
 url                      : "https://gyu-beom.github.io" # 현재 블로그의 url
 # baseurl                  : "https://gyu-beom.github.io" # fallback 일 때 연결되는 url
-repository               : "gyu-beom/gyu-beom.github.io.git" # github repository url (user name/repository name)
+repository               : "gyu-beom/gyu-beom.github.io" # github repository url (user name/repository name)
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "개발도 하고 싶은 Cloud SA 입니다." # 화면 title
