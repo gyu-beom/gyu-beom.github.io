@@ -3,9 +3,9 @@ minimal_mistakes_skin    : "default" # 전체적인 블로그의 색감
 
 # Site Settings
 locale                   : "ko-KR" # 블로그의 주요 언어
-title                    : "정리하면서 깨닫는 개발 + 인프라 Blog" # 사이트 탭에서 보이는 이름
+title                    : "개발 + 인프라 Blog" # 사이트 탭에서 보이는 이름
 title_separator          : "-"
-subtitle                 : "since 2023" # 화면 title 하단에 있는 소제목
+subtitle                 : "since 2023.10" # 화면 title 하단에 있는 소제목
 name                     : "gyu-beom" # 화면 하단 영역의 이름
 description              : "장규범" # 설명란
 url                      : "https://gyu-beom.github.io" # 현재 블로그의 url
@@ -13,7 +13,7 @@ url                      : "https://gyu-beom.github.io" # 현재 블로그의 ur
 repository               : "gyu-beom/gyu-beom.github.io" # github repository url (user name/repository name)
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Dev 또한 관심 있는 SA 입니다." # 화면 title
+masthead_title           : "정리 정리 :)" # 화면 title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
