@@ -6,6 +6,7 @@
 
 html {
   /* apply a natural box layout model to all elements */
+  /* 웹 사이트 창 크기에 따른 글씨 크기 조정 */
   box-sizing: border-box;
   background-color: $background-color;
   font-size: 16px;
