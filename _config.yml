@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "default" # 전체적인 블로그의 색감
 
 # Site Settings
 locale                   : "ko-KR" # 블로그의 주요 언어
-title                    : "gyu-beom Blog" # 사이트 탭에서 보이는 이름
+title                    : "Dev + SA Blog" # 사이트 탭에서 보이는 이름
 title_separator          : "-"
 subtitle                 : "since 2023.10" # 화면 title 하단에 있는 소제목
 name                     : "gyu-beom" # 화면 하단 영역의 이름
@@ -73,7 +73,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "장규범"
+  name             : "gyu-beom"
   avatar           : "assets/images/author/me.png"
   bio              : "정리하면서 흔적을 남겨요 :)"
   links:
