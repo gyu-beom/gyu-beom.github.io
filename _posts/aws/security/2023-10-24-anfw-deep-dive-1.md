@@ -8,10 +8,11 @@ tags:
 
 toc: true
 toc_sticky: true
-toc_label: "anfw theory"
+toc_label: "anfw deep dive"
 toc_icon: "bookmark"
 
 date: "2023-10-24"
+last_modified_at: 2023-10-25
 ---
 
 ![https://awstip.com/network-security-with-amazon-network-firewall-80b84347fec3](https://github.com/gyu-beom/gyu-beom.github.io/assets/122728665/d079d37e-8c8d-4dee-b6e4-de6b572fd4fc){: .align-center}
