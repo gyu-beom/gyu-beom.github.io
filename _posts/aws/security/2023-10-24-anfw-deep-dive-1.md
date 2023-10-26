@@ -97,7 +97,25 @@ Stateless Rule Group 은 우선순위를 부여할 수 있으며 우선순위의
 
 - *AWS Security Group 의 default traffic: **deny traffic***
 
-2가지의 Action 방식이 존재한다.
+Stateful Rule Group 은 3가지 종류, 2가지 Action 이 존재한다.
+
+**3가지 종류**
+
+1. Standard stateful rule
+
+- 기존 5-tuple 기반으로 제어하는 방식의 규칙이다.
+
+2. Domain list
+
+- 도메인 기반으로 제어하는 방식의 규칙이다.
+
+3. Suricata compatible rule string
+
+- 언어를 기반의 문법 기반 규칙이라고는 하는데 정확하게는 아직도 잘 모르겠다...
+
+- 자세한 내용은 [예제](https://docs.aws.amazon.com/ko_kr/network-firewall/latest/developerguide/suricata-examples.html) 참고...
+
+**2가지 Action**
 
 1. Strict order
 
