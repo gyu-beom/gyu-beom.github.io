@@ -17,7 +17,7 @@ last_modified_at: 2023-10-30
 
 ## [00] Edge Association 이란?
 
-![anfw-deep-dive-2 drawio drawio](https://github.com/gyu-beom/gyu-beom.github.io/assets/122728665/8d39e389-b042-4669-9a2c-3eb57ad26155){: .align-center}
+![anfw-deep-dive-2 drawio drawio](https://github.com/gyu-beom/gyu-beom.github.io/assets/122728665/b4392268-0dcb-4558-9830-0eb792b6e609){: .align-center}
 
 - _참고 Architecture_
 
