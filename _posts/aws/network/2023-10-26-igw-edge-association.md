@@ -12,12 +12,12 @@ toc_label: 'igw edge assocation'
 toc_icon: 'bookmark'
 
 date: 2023-10-26
-last_modified_at: 2023-10-26
+last_modified_at: 2023-10-30
 ---
 
 ## [00] Edge Association 이란?
 
-![anfw-deep-dive-2 drawio drawio](https://github.com/gyu-beom/gyu-beom.github.io/assets/122728665/7a5a8159-615c-4922-91a4-6b0eb185dec7){: .align-center}
+![anfw-deep-dive-2 drawio drawio](https://github.com/gyu-beom/gyu-beom.github.io/assets/122728665/8d39e389-b042-4669-9a2c-3eb57ad26155){: .align-center}
 
 - _참고 Architecture_
 
