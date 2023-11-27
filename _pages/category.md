@@ -1,6 +1,6 @@
 ---
 permalink: /categories/
-title: "Category"
+title: 'Category'
 layout: categories
 author_profile: true
 ---
